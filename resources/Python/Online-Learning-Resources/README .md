@@ -6,5 +6,5 @@ There are Resources in Hebrew as well as in English.
 * [__Learning Resources Links__](./Learning-Resources-Links.md)  
 Links to Online Learning Materials
 
-* [__Online Learning Resources__](./Online-Learning-Resources/README.md)  
+* [__Interactive Learning Links Resources__](./Interactive-Learning-Links.md)  
 Links, Online PDF's, Interactive Learning Resources, Cheatsheets, etc..
