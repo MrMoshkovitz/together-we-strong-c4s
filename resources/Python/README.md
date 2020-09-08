@@ -9,4 +9,6 @@ Python, Automation, Learning Resources, etc..
 * [__Online Learning Resources__](./Online-Learning-Resources/README.md)  
 Links, Online PDF's, Interactive Learning Resources, Cheatsheets, etc..
 
+* [__Exercises, Challenges and Training Online__](./Python-Training/README.md)  
+Tasks, Exercises, Online Challenges, etc..
 

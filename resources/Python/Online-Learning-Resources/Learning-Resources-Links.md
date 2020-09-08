@@ -4,10 +4,20 @@ Useful Links, Online Learning Resources Links, Cheatsheets and More
 
 
 ## Here You'll Find
-* [Deeply Explained Python Subjects](#Subjects)
-* [SQL](#sql)
+* [Deeply Explained Python Subjects](#Python-Subjects)
+* [Full Python Learning Courses](#Amazing-Python)
 
-## Python Subjects
+## Amazing-Python
+* [Geeks For Geeks](https://www.geeksforgeeks.org/keywords-python-set-1/?ref=lbp) 
+Full Python Course
+* [How To Think Like A Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/index.html#how-to-think-like-a-computer-scientist) 
+Full Python Course
+* [Real Python ](https://realpython.com/) 
+Best Python Tutorials Online
+* [Data Point ](https://www.datapoint.training/python-guide) 
+Python Full Guide In Hebrew
+
+## Python-Subjects
 * [Before We Start](http://data.cyber.org.il/python/1450-3-00.pdf) 
 Python Overview
 
