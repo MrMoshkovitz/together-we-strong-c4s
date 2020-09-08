@@ -6,9 +6,9 @@ There are Resources in Hebrew as well as in English.
 * [__Python PDF's__](./Python-PDF's/README.md)  
 Python, Automation, Learning Resources, etc..
 
-* [__Online Learning Resources__](./Online-Learning-Resources/README.md)  
+* [__Online Learning Resources__](./Online-Learning-Resources)  
 Links, Online PDF's, Interactive Learning Resources, Cheatsheets, etc..
 
-* [__Exercises, Challenges and Training Online__](./Python-Training/README.md)  
+* [__Exercises, Challenges and Training Online__](./Python-Training)  
 Tasks, Exercises, Online Challenges, etc..
 
