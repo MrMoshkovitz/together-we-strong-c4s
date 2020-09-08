@@ -3,5 +3,5 @@ In the following section you could find different resources that can help you le
 There are Resources in Hebrew as well as in English.
 
 ## Here You can find:
-* [__Python PDF's__](./python-pdf's/README.md)  
+* [__Python PDF's__](./Python-PDF's/README.md)  
 Python, Automation, Learning Resources, etc..
