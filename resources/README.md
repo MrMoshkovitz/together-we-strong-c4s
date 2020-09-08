@@ -4,6 +4,8 @@ This  is the section for different resources you can use while learning and work
 If ypu feel a resource is misplaced or should be in both places, start an issue or make a pull request!
 
 ## Here You can find:
+* [__Python__](./python/README.md)  
+Python, Automation, Learning Resources, etc..
 * [__Backend__](./backend/README.md)  
 Node, Databases and so on 
 * [__Frontend__](./frontend/README.md)  
