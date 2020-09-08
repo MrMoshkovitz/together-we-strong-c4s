@@ -4,5 +4,5 @@ All of the resources in this section is in the type of PDF and will be written i
 
 
 ## Here You can find:
-* [__English Python__](./English-Python/)  
+* [__English Python__](../English-Python)  
 PDF's with Python learning materials in English
