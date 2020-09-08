@@ -4,8 +4,8 @@ There are Resources in Hebrew as well as in English.
 All of the resources in this section is in the type of PDF
 
 ## Here You can find:
-* [__Python PDF's__](./English-Python/README.md)  
+* [__English Python__](./English-Python/README.md)  
 PDF's with Python learning materials in English
 
-* [__Python PDF's__](./Hebrew-Python/README.md)  
+* [__Hebrew Python__](./Hebrew-Python/README.md)  
 PDF's with Python learning materials in Hebrew
