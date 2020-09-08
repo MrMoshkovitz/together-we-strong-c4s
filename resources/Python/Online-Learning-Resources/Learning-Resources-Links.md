@@ -48,4 +48,3 @@ Python Dictionaries
 Python Regex Expand
 
 
-http://data.cyber.org.il/python/1450-3-00.pdf
